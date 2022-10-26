@@ -71,4 +71,30 @@ Link para o projeto:https://www.quant-ux.com/#/share.html?h=a2aa10aI9Xh8YmhSPZlN
    * De quais localidades tem a maior quantidade de músicos que fizeram empréstimos dado um período de tempo
 ### 4.3 Tabela de dados do sistema
 
+[Tabela emprestimo de instrumentos.xlsx](https://github.com/MatheusButter/Trabalho-BD-/files/9873578/Tabela.emprestimo.de.instrumentos.xlsx)
 
+## 5.0 Modelo Conceitual
+
+![image](https://user-images.githubusercontent.com/106558466/198133158-5e3606ef-fb19-41d7-a13c-e2282a969bf7.png)
+
+### 5.1 Validação do Modelo Conceitual
+
+O professo sugeriu uma pequena alterações no modelo que já foram efetuadas
+
+### 5.2 Descrição dos dados
+* [Pessoa] : [Armazena os dados pessoais de cada pessoa cadastrada no sistema]
+* [Musico] : [Identifica a pessoa cadastrada no sistema como músico]
+* [Funcionario] : [Identifica a pessoa cadastrada no sistema como funcionário da banda]
+* [Contato] : [Registra os contatos das pessoas adastradas no sistema]
+* [Contato_tipo] : [Registra os tipos de contato que as pessoas podem ter]
+* [Endereco] : [Registra os endereços dos músicos]
+* [Endereco_tipo] : [Registra os tipos de endereços que os músicos possam ter]	
+* [Instrumento] : [Registra todos os instrumentos que a banda tem]
+* [Instrumento_tipo] : [Registra todos os tipos de instrumentos que a banda tem ]	
+* [Solicita] : [Gerencia uma solicitação de empréstimo de um instrumento]	
+
+## 6.0 Modelo lógico
+
+![image](https://user-images.githubusercontent.com/106558466/198136497-00a3e7c7-66f9-45f8-8815-a6c95a051c8f.png)
+
+## 7.0 Modelo Físico
