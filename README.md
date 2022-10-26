@@ -31,3 +31,44 @@
 ## 1.0 Componentes
 Matheus Butter Dias 2017bsi0181
 ## 2.0 Introdução e motivação
+Este documento apresenta uma descrição geral do sistema para emprestar
+instrumentos musicais e seus diagramas necessários para a melhor estruturação do
+projeto.O propósito do sistema é informatizar os processos de empréstimo de
+instrumentos musicais de uma banda, onde os músicos poderão solicitar o
+empréstimo de um instrumento de maneira online, além de lembrar os músicos da
+manutenção nos instrumentos.
+
+## 3.0 Mini mundo
+
+É um sistema para a banda, visa facilitar os empréstimos. Dessa maneira, o
+sistema precisa controlar os instrumentos através da identificação, tipo (corda,
+sopro, percussão, idiofones e eletrofones), data de aquisição, modelo, marca e ano
+de lançamento. O sistema também deve permitir o controle dos músicos através do
+nome, idade, sexo, email, cpf, endereço e telefone. Também é preciso controlar os
+empréstimos dos instrumentos através do atual responsável pelo instrumento, a
+data do empréstimo e a data de renovação. Os instrumentos devem passar por
+períodos de manutenção, informando a data prevista de realizar os reparos nos
+instrumentos e também emitir um alerta com 15 dias de antecedência para que
+quem seja o responsável pelo instrumento no momento leve-o para a manutenção.
+Esse alerta precisa estar integrado com o WhatsApp para enviar mensagens. Ao
+pegar um instrumento emprestado o mesmo deve assinar o termo de
+responsabilidade, onde ele se responsabiliza por quaisquer danos ao equipamento.
+O sistema não deve permitir que um músico pegue mais do que um instrumento
+
+## 4.0 Prototipação, perguntas a serem respondidas e tabela de dados
+### 4.1. Rascunhos básicos da interface (MocKups)
+![image](https://user-images.githubusercontent.com/106558466/198100622-44d39bbc-679e-4aaa-8f8c-cf2d8ca66d23.png)
+Link para o projeto:https://www.quant-ux.com/#/share.html?h=a2aa10aI9Xh8YmhSPZlNzGyGyB8POz6Vw0ENuiJDCRx5wlysItafwTaooeFK
+
+### 4.2 Quais perguntas podem ser respondidas com o sistema proposto
+- a) O sistema proposto poderá fornecer quais tipos de relatórios e informações? 
+   * Todo o tipo de relatório que envolva a gestão dos instrumentos e dos músicos cadastrados.
+- b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+   * Quais os principais instrumentos emprestados em determinados períodos de tempo.
+   * Quais músicos mais pegaram instrumentos emprestados em determinado período de tempo.
+   * Qual o tempo médio que cada instrumento ficou emprestado
+   * Qual a localidade que contem mais músicos 
+   * De quais localidades tem a maior quantidade de músicos que fizeram empréstimos dado um período de tempo
+### 4.3 Tabela de dados do sistema
+
+
