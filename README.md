@@ -305,4 +305,15 @@ values(001,001,001,'2022-10-29'),
 ## 9.0 Tabelas e principais consultas
 
 ### 9.1 Consultas das tabelas com todos os dados inseridos
+![1](https://user-images.githubusercontent.com/106558466/198372687-3f3ad636-0317-45e5-be7c-78d64d26bda6.PNG)
+![2](https://user-images.githubusercontent.com/106558466/198372693-b93bd877-5cb8-49dc-b5b9-d24d198862d7.PNG)
+![3](https://user-images.githubusercontent.com/106558466/198372695-dc20c1b7-9013-4711-8cc9-c38830575c15.PNG)
+![4](https://user-images.githubusercontent.com/106558466/198372697-f8bb3441-7dda-4100-9ceb-db61cbafa542.PNG)
+![5](https://user-images.githubusercontent.com/106558466/198372698-20aabb95-6b52-4bc9-baaf-4b3143a2f79b.PNG)
+![6](https://user-images.githubusercontent.com/106558466/198372700-44e20f5f-4023-482a-9c1b-8f389bc71252.PNG)
+![7](https://user-images.githubusercontent.com/106558466/198372703-b774342b-d3bc-4b7f-9b44-cdd0c81f4b56.PNG)
+![8](https://user-images.githubusercontent.com/106558466/198372706-7ee558ab-62c9-45e7-85b4-03c820f5dbbc.PNG)
+![9](https://user-images.githubusercontent.com/106558466/198372709-6b2de6b5-faf4-441c-a00f-1225cb649826.PNG)
+![10](https://user-images.githubusercontent.com/106558466/198372713-6899eb76-2b0e-458c-bac9-297af78fdf38.PNG)
+![11](https://user-images.githubusercontent.com/106558466/198372715-110ee1ed-3cea-4ec1-9f8a-4415d440d7f2.PNG)
 
