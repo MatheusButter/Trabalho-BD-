@@ -98,3 +98,118 @@ O professo sugeriu uma pequena alterações no modelo que já foram efetuadas
 ![image](https://user-images.githubusercontent.com/106558466/198136497-00a3e7c7-66f9-45f8-8815-a6c95a051c8f.png)
 
 ## 7.0 Modelo Físico
+
+CREATE TABLE CONTATO_TIPO(
+	cod INT,
+    descricao varchar(100),
+    
+    PRIMARY key (cod)
+);
+
+create table contato(
+	cod int,
+    cod_pes int,
+    cod_tipo int,
+    contato varchar(100),
+    
+    PRIMARY key (cod),
+    FOREIGN key (cod_tipo) REFERENCES contato_tipo(cod)
+);
+
+create table pessoa(
+	cod int,
+    nome varchar(100),
+    sexo char(1),
+    data_nascimento date,
+    cpf varchar(100),
+    senha varchar(100),
+    
+    PRIMARY key (cod)
+);
+
+alter TABLE contato add FOREIGN key (cod_pes) REFERENCES pessoa(cod);
+
+create table musico(
+	cod int,
+    cod_pess int,
+    
+    PRIMARY key(cod),
+    FOREIGN key(cod_pess) REFERENCES pessoa(cod)
+);
+
+create table funcionario( 
+	cod int,
+	cod_pess int,
+	PRIMARY KEY(cod),
+	FOREIGN key (cod_pess) REFERENCES pessoa(cod)
+ );
+ 
+ CREATE table endereco_tipo(
+	cod int,
+    descricao varchar(100),
+    
+    PRIMARY key (cod)
+);
+
+CREATE table endereco(
+	cod int,
+    cod_musi int,
+    ender_tipo int,
+    endereco varchar(100),
+    
+    PRIMARY key (cod),
+    FOREIGN key (cod_musi) REFERENCES musico(cod),
+    FOREIGN key (ender_tipo) REFERENCES endereco_tipo(cod)
+    
+);
+
+CREATE table instrumento_tipo(
+	cod int,
+    descricao varchar(100),
+    
+    PRIMARY key(cod)
+    
+);
+
+CREATE table instrumento (
+	cod int,
+    data_aquisicao date,
+    modelo varchar(100),
+    marca varchar(100),
+    ano_fabric varchar(5),
+    data_prox_manuten date,
+    tipo_instru int,
+    
+    PRIMARY key(cod),
+    
+    FOREIGN key (tipo_instru) REFERENCES instrumento_tipo(cod)
+    
+
+);
+
+create table emprestimo(
+	cod int,
+    cod_musi int,
+    cod_instru int,
+    data_inicio date,
+    data_fim date,
+    
+    PRIMARY key (cod),
+    FOREIGN key (cod_musi) REFERENCES musico(cod),
+    FOREIGN key (cod_instru) REFERENCES instrumento(cod)
+);
+
+
+create table aprovacao_emprestimo(
+	cod int,
+    cod_fun int,
+    cod_emp int,
+    data_aprov date,
+    
+    PRIMARY key (cod),
+    FOREIGN key (cod_fun) REFERENCES funcionario(cod),
+    FOREIGN key (cod_emp) REFERENCES emprestimo(cod)
+);
+
+
+## 8.0 Insert aplicado nas tabelas do banco de dados
