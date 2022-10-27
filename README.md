@@ -213,3 +213,96 @@ create table aprovacao_emprestimo(
 
 
 ## 8.0 Insert aplicado nas tabelas do banco de dados
+insert INTO pessoa (cod,nome,sexo,data_nascimento,cpf,senha)
+values(001,'Maria Aparecida','F','2010-11-30','422.521.150-92','123456789'),
+	(002,'Antônio Pereira','M','2008-07-31','705.828.720-14','987654321'),
+    (003,'José da silva','M','1995-02-10','355.652.980-75','654123987'),
+    (004,'Marinalva Santos','F','1979-11-18','092.732.270-66','321789654'),
+    (005,'Karina Aparecida','F','2010-09-30','820.795.060-99','852369741'),
+    (006,'Marco Dombosco','M','1989-12-27','272.200.330-95','654123987'),
+    (007,'Paula Ribeiro','F','2009-10-31','680.129.850-04','741963852'),
+    (008,'Guilherme Damaceno','M','1999-08-25','432.162.100-30','741236589');
+
+INSERT INTO musico(cod,cod_pess)
+values(001,005),
+	(002,004),
+    (003,008),
+    (004,007),
+    (005,006);
+	
+
+INSERT into funcionario (cod,cod_pess)
+values(001,001),
+	(002,002),
+    (003,003);
+
+INSERT into contato_tipo(cod,descricao)
+values(001,'Telefone'),
+(002,'E-mail'),
+(003,'Instagram'),
+(004,'Facebook');
+
+INSERT into contato(cod,cod_pes,cod_tipo,contato)
+values(001,001,001,'(27) 9951-8505'),
+	(002,001,002,'maria@gmail.com'),
+    (003,002,001,'(63) 98954-7103'),
+    (004,002,002,'antonio@gmail.com'),
+    (005,003,001,'(64) 98541-8647'),
+    (006,003,002,'jose@gmail.com'),
+    (007,004,001,'(64) 99541-5684'),
+    (008,004,002,'mari@hotmail.com'),
+    (009,005,001,'(44) 98574-5443'),
+    (010,006,001,'(84) 99782-1715'),
+    (011,007,002,'paula@hotmail.com'),
+    (012,008,001,'(87) 99816-7329'),
+    (013,008,001,'(96) 98685-7688');
+	
+INSERT into endereco_tipo(cod,descricao)
+values (001,'Rua'),
+	(002,'Avenida'),
+    (003,'Beco'),
+    (004,'Condominio');
+	
+insert into endereco (cod,cod_musi,ender_tipo,endereco)
+values(001,001,001,'Artus N°130'),
+	(002,002,002,'Aralcaria N°6565'),
+    (003,003,003,'Das armadilhas N°9856'),
+    (004,004,004,'Paumeiras N°56 apt302'),
+    (005,005,001,'Navegantes N°666');
+	
+INSERT into instrumento_tipo (cod,descricao)
+values(001,'Violão'),
+	(002,'Guitarra'),
+    (003,'Flauta'),
+    (004,'Clarinete'),
+    (005,'Bateria');
+	
+INSERT into instrumento(cod,data_aquisicao,modelo,marca,ano_fabric,data_prox_manuten,tipo_instru)
+values(001,'2003-10-10','a30506','Polishop','2002','2023-05-01',001),
+	(002,'2001-09-08','p486','Duracel','2000','2023-06-05',002),
+    (003,'2022-04-01','zip565','Qualy','2022','2023-02-01',003),
+    (004,'2021-03-04','asd1512','Garoto','2021','2022-12-12',004),
+    (005,'2022-01-05','put12315','Polishop','2019','2023-12-01',005);
+	
+INSERT into emprestimo(cod,cod_musi,cod_instru,data_inicio,data_fim)
+values(001,001,001,'2022-10-27','2022-12-10'),
+	(002,002,002,'2022-10-29','2023-10-01'),
+    (003,003,003,'2022-10-30','2022-11-05'),
+    (004,004,004,'2022-10-31','2022-12-01'),
+    (005,005,005,'2022-10-27','2022-10-30');
+	
+INSERT INTO aprovacao_emprestimo(cod,cod_fun,cod_emp,data_aprov)
+values(001,001,001,'2022-10-29'),
+	(002,001,002,'2022-10-29'),
+    (003,001,003,'2022-10-29'),
+    (004,002,004,'2022-10-28'),
+    (005,002,002,'2022-10-28');
+ 
+ Link para baixar os arquivos .SQL:
+ [trabalho BD.zip](https://github.com/MatheusButter/Trabalho-BD-/files/9882292/trabalho.BD.zip)
+
+
+## 9.0 Tabelas e principais consultas
+
+### 9.1 Consultas das tabelas com todos os dados inseridos
+
