@@ -130,21 +130,7 @@ create table pessoa(
 
 alter TABLE contato add FOREIGN key (cod_pes) REFERENCES pessoa(cod);
 
-create table musico(
-	cod int,
-    cod_pess int,
-    
-    PRIMARY key(cod),
-    FOREIGN key(cod_pess) REFERENCES pessoa(cod)
-);
 
-create table funcionario( 
-	cod int,
-	cod_pess int,
-	PRIMARY KEY(cod),
-	FOREIGN key (cod_pess) REFERENCES pessoa(cod)
- );
- 
  CREATE table endereco_tipo(
 	cod int,
     descricao varchar(100),
@@ -159,7 +145,7 @@ CREATE table endereco(
     endereco varchar(100),
     
     PRIMARY key (cod),
-    FOREIGN key (cod_musi) REFERENCES musico(cod),
+    FOREIGN key (cod_musi) REFERENCES pessoa(cod),
     FOREIGN key (ender_tipo) REFERENCES endereco_tipo(cod)
     
 );
@@ -169,23 +155,36 @@ CREATE table instrumento_tipo(
     descricao varchar(100),
     
     PRIMARY key(cod)
+);
+
+CREATE table marca(
+	cod int,
+    descricao varchar(100),
     
+    PRIMARY key(cod)
+);
+
+CREATE table modelo(
+	cod int,
+    descricao varchar(100),
+    
+    PRIMARY key(cod)
 );
 
 CREATE table instrumento (
 	cod int,
     data_aquisicao date,
-    modelo varchar(100),
-    marca varchar(100),
+    cod_modelo int,
+    cod_marca int,
     ano_fabric varchar(5),
     data_prox_manuten date,
     tipo_instru int,
     
     PRIMARY key(cod),
     
-    FOREIGN key (tipo_instru) REFERENCES instrumento_tipo(cod)
-    
-
+    FOREIGN key (tipo_instru) REFERENCES instrumento_tipo(cod),
+	FOREIGN key (cod_modelo) REFERENCES modelo(cod),
+	FOREIGN key (cod_marca) REFERENCES marca(cod)
 );
 
 create table emprestimo(
@@ -196,7 +195,7 @@ create table emprestimo(
     data_fim date,
     
     PRIMARY key (cod),
-    FOREIGN key (cod_musi) REFERENCES musico(cod),
+    FOREIGN key (cod_musi) REFERENCES pessoa(cod),
     FOREIGN key (cod_instru) REFERENCES instrumento(cod)
 );
 
@@ -208,7 +207,7 @@ create table aprovacao_emprestimo(
     data_aprov date,
     
     PRIMARY key (cod),
-    FOREIGN key (cod_fun) REFERENCES funcionario(cod),
+    FOREIGN key (cod_fun) REFERENCES pessoa(cod),
     FOREIGN key (cod_emp) REFERENCES emprestimo(cod)
 );
 
