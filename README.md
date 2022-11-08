@@ -75,7 +75,7 @@ Link para o projeto:https://www.quant-ux.com/#/share.html?h=a2aa10aI9Xh8YmhSPZlN
 
 ## 5.0 Modelo Conceitual
 
-![image](https://user-images.githubusercontent.com/106558466/198133158-5e3606ef-fb19-41d7-a13c-e2282a969bf7.png)
+![image](https://user-images.githubusercontent.com/106558466/200628949-796744cf-28e2-4f2a-8458-3cf99eeb11b1.png)
 
 ### 5.1 Validação do Modelo Conceitual
 
