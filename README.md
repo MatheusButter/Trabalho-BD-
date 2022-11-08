@@ -95,7 +95,8 @@ O professo sugeriu uma pequena alterações no modelo que já foram efetuadas
 
 ## 6.0 Modelo lógico
 
-![image](https://user-images.githubusercontent.com/106558466/198136497-00a3e7c7-66f9-45f8-8815-a6c95a051c8f.png)
+![image](https://user-images.githubusercontent.com/106558466/200631022-962a937c-68ed-4709-a48c-2685b1194617.png)
+
 
 ## 7.0 Modelo Físico
 
