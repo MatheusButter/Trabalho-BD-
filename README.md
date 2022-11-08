@@ -317,15 +317,14 @@ values(001,007,001,'2022-10-29'),
 ## 9.0 Tabelas e principais consultas
 
 ### 9.1 Consultas das tabelas com todos os dados inseridos
-![1](https://user-images.githubusercontent.com/106558466/198372687-3f3ad636-0317-45e5-be7c-78d64d26bda6.PNG)
-![2](https://user-images.githubusercontent.com/106558466/198372693-b93bd877-5cb8-49dc-b5b9-d24d198862d7.PNG)
-![3](https://user-images.githubusercontent.com/106558466/198372695-dc20c1b7-9013-4711-8cc9-c38830575c15.PNG)
-![4](https://user-images.githubusercontent.com/106558466/198372697-f8bb3441-7dda-4100-9ceb-db61cbafa542.PNG)
-![5](https://user-images.githubusercontent.com/106558466/198372698-20aabb95-6b52-4bc9-baaf-4b3143a2f79b.PNG)
-![6](https://user-images.githubusercontent.com/106558466/198372700-44e20f5f-4023-482a-9c1b-8f389bc71252.PNG)
-![7](https://user-images.githubusercontent.com/106558466/198372703-b774342b-d3bc-4b7f-9b44-cdd0c81f4b56.PNG)
-![8](https://user-images.githubusercontent.com/106558466/198372706-7ee558ab-62c9-45e7-85b4-03c820f5dbbc.PNG)
-![9](https://user-images.githubusercontent.com/106558466/198372709-6b2de6b5-faf4-441c-a00f-1225cb649826.PNG)
-![10](https://user-images.githubusercontent.com/106558466/198372713-6899eb76-2b0e-458c-bac9-297af78fdf38.PNG)
-![11](https://user-images.githubusercontent.com/106558466/198372715-110ee1ed-3cea-4ec1-9f8a-4415d440d7f2.PNG)
-
+![1](https://user-images.githubusercontent.com/106558466/200667112-290ce432-0702-4894-8483-1e26cc7e166b.PNG)
+![2](https://user-images.githubusercontent.com/106558466/200667115-55fd9a52-eb85-43ee-bd6a-d42421df796f.PNG)
+![3](https://user-images.githubusercontent.com/106558466/200667116-d67d1eee-c083-4414-a92c-fb93b16fb2d3.PNG)
+![4](https://user-images.githubusercontent.com/106558466/200667117-69e4bda2-8e08-4d01-881a-2e19bd40d013.PNG)
+![5](https://user-images.githubusercontent.com/106558466/200667120-578d99c2-6147-411c-ae5a-7fb32c162ffb.PNG)
+![6](https://user-images.githubusercontent.com/106558466/200667121-8933e825-c208-41da-936b-606f076902bf.PNG)
+![7](https://user-images.githubusercontent.com/106558466/200667123-5d5c3267-afec-4ea9-a7b4-0fe0178f7402.PNG)
+![8](https://user-images.githubusercontent.com/106558466/200667127-42d6f78c-cdf1-48f8-b23d-6939ab992945.PNG)
+![9](https://user-images.githubusercontent.com/106558466/200667129-d4240006-0828-46b7-8d43-d72ea4e94ba4.PNG)
+![10](https://user-images.githubusercontent.com/106558466/200667132-599b21bb-4acc-4c44-bf08-e783ea763690.PNG)
+![11](https://user-images.githubusercontent.com/106558466/200667134-b01b04db-5a7a-4c51-87a2-7860d910f644.PNG)
