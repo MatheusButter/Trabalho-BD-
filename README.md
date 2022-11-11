@@ -351,5 +351,20 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201441742-d43bd0f6-3251-4244-b172-5d5a540b4e40.png)
 
 
+### 9.4 Consultas que usam operadores like e datas
+![image](https://user-images.githubusercontent.com/106558466/201442211-cc690dbb-6f09-45d3-bf6e-da114303e27c.png)
+![image](https://user-images.githubusercontent.com/106558466/201442360-0f06bae8-bd3d-4cc7-9e6d-a389a30f11f2.png)
+![image](https://user-images.githubusercontent.com/106558466/201442473-32ff0104-a67e-4c9e-a2a9-8e46bb3d85b1.png)
+![image](https://user-images.githubusercontent.com/106558466/201442614-82e0f0dc-b880-4a03-aeda-c66dc95b887b.png)
+![image](https://user-images.githubusercontent.com/106558466/201442728-f85b6ccc-ac78-4285-8f62-b6d16d839c5e.png)
+![image](https://user-images.githubusercontent.com/106558466/201442895-8a5c2dec-9d54-455d-a67e-331e56b53e23.png)
+![image](https://user-images.githubusercontent.com/106558466/201443143-5d955902-6c97-4d92-97b9-ff512b197012.png)
+![image](https://user-images.githubusercontent.com/106558466/201443541-2305d1c7-ebf6-4036-8630-fe098ebea9e2.png)
+![image](https://user-images.githubusercontent.com/106558466/201443883-9469054d-c8bf-4fd5-9c85-c46ba23145ca.png)
+![image](https://user-images.githubusercontent.com/106558466/201444073-3db384dc-7f93-4e18-8bfd-551eb0f62198.png)
+![image](https://user-images.githubusercontent.com/106558466/201444437-4dea1f66-8986-4460-95d5-8212f0fdf35f.png)
+
+
+
 
 
