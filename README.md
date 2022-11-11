@@ -328,3 +328,11 @@ values(001,007,001,'2022-10-29'),
 ![9](https://user-images.githubusercontent.com/106558466/200667129-d4240006-0828-46b7-8d43-d72ea4e94ba4.PNG)
 ![10](https://user-images.githubusercontent.com/106558466/200667132-599b21bb-4acc-4c44-bf08-e783ea763690.PNG)
 ![11](https://user-images.githubusercontent.com/106558466/200667134-b01b04db-5a7a-4c51-87a2-7860d910f644.PNG)
+
+### 9.2 consultas das tabelas com filtros whare
+![image](https://user-images.githubusercontent.com/106558466/201400074-3a17012e-9306-4e97-9baf-5aa1e4068fa6.png)
+![image](https://user-images.githubusercontent.com/106558466/201400757-d2c973eb-8421-4aa9-b826-e204521c226f.png)
+![image](https://user-images.githubusercontent.com/106558466/201401233-ed7f2cac-7ae0-4311-90e2-d005db071bd3.png)
+![image](https://user-images.githubusercontent.com/106558466/201401936-a01800d1-235a-45de-8d35-77690ee5d38f.png)
+
+
