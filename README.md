@@ -335,4 +335,18 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201401233-ed7f2cac-7ae0-4311-90e2-d005db071bd3.png)
 ![image](https://user-images.githubusercontent.com/106558466/201401936-a01800d1-235a-45de-8d35-77690ee5d38f.png)
 
+### 9.3 Consultas usando operadores lógicos, aritiméticos e tabelas ou campus renomeados
+
+![image](https://user-images.githubusercontent.com/106558466/201424300-f55b2e12-e358-4a15-91ab-207dde80fd1d.png)
+![image](https://user-images.githubusercontent.com/106558466/201424736-f159cfc4-06e8-4112-a32c-6c501e25dec8.png)
+![image](https://user-images.githubusercontent.com/106558466/201425013-34aedce3-f5c6-42a8-9d90-df909f3cb6e7.png)
+![image](https://user-images.githubusercontent.com/106558466/201425500-5f867d63-0cae-4baa-be2a-871efce78db8.png)
+![image](https://user-images.githubusercontent.com/106558466/201427979-402fa8ea-4961-4ecd-ad1c-24d1aac25a31.png)
+![image](https://user-images.githubusercontent.com/106558466/201432217-869a3ecd-6166-4989-a646-2cdfa9dc8402.png)
+![image](https://user-images.githubusercontent.com/106558466/201434284-a8e1a7cd-ab08-435c-ba38-cab669057946.png)
+![image](https://user-images.githubusercontent.com/106558466/201434537-a88aab44-7d0b-4ad5-b918-d08500ce008d.png)
+![image](https://user-images.githubusercontent.com/106558466/201435030-9043345e-bbb8-410a-9018-1f5e72b2b82e.png)
+
+
+
 
