@@ -315,6 +315,8 @@ values(001,007,001,'2022-10-29'),
 
 
 ## 9.0 Tabelas e principais consultas
+Em anexo o SQL equivalente ao itens 9.2 a .910 c=juntamente com uma explicação de cada códgo SQL
+[Itens.zip](https://github.com/MatheusButter/Trabalho-BD-/files/9996036/Itens.zip)
 
 ### 9.1 Consultas das tabelas com todos os dados inseridos
 ![1](https://user-images.githubusercontent.com/106558466/200667112-290ce432-0702-4894-8483-1e26cc7e166b.PNG)
