@@ -399,3 +399,12 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201493835-af1c28e7-d80c-4fcf-8fca-e04cc856d8dd.png)
 ![image](https://user-images.githubusercontent.com/106558466/201493910-e8426a6d-008f-4adc-a636-651d13ec299c.png)
 
+### 9.9 Consultas com self join e view
+![image](https://user-images.githubusercontent.com/106558466/201494493-8204c61c-1bce-4e49-9013-16508cc871f3.png)
+![image](https://user-images.githubusercontent.com/106558466/201494811-481ae00b-fb10-4ff3-875b-3afed967f627.png)
+![image](https://user-images.githubusercontent.com/106558466/201494941-d7017de8-2091-4d0c-8ee4-abbf8b0f2e89.png)
+![image](https://user-images.githubusercontent.com/106558466/201495020-680bdd66-b025-42c8-9879-9dea06bb80d5.png)
+![image](https://user-images.githubusercontent.com/106558466/201495181-0c12872a-17aa-434f-91bd-bc95edfd4e7c.png)
+![image](https://user-images.githubusercontent.com/106558466/201495331-b736d27b-ae34-4cec-80b0-f3b0187ba03b.png)
+
+
