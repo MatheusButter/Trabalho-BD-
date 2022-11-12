@@ -393,5 +393,9 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201492490-6d79dad1-d1b6-47ef-9764-f207e8d17a74.png)
 ![image](https://user-images.githubusercontent.com/106558466/201492510-9c6d3a6f-8818-48d6-8211-6e970e310204.png)
 
-
+### 9.8 Consultas com left rigth e full join
+![image](https://user-images.githubusercontent.com/106558466/201493682-c003f89d-5cc3-46a5-b7a7-29dd2965c71e.png)
+![image](https://user-images.githubusercontent.com/106558466/201493732-f7ab16a0-456d-4c12-ab2f-519b4606ea09.png)
+![image](https://user-images.githubusercontent.com/106558466/201493835-af1c28e7-d80c-4fcf-8fca-e04cc856d8dd.png)
+![image](https://user-images.githubusercontent.com/106558466/201493910-e8426a6d-008f-4adc-a636-651d13ec299c.png)
 
