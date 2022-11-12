@@ -407,4 +407,12 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201495181-0c12872a-17aa-434f-91bd-bc95edfd4e7c.png)
 ![image](https://user-images.githubusercontent.com/106558466/201495331-b736d27b-ae34-4cec-80b0-f3b0187ba03b.png)
 
+### 9.10 Subconsultas
+
+![image](https://user-images.githubusercontent.com/106558466/201495680-2ffb1d28-6967-4684-96a8-0807319a2539.png)
+![image](https://user-images.githubusercontent.com/106558466/201495841-3e214f64-27f3-4a5e-ac35-07e5f342cc7c.png)
+![image](https://user-images.githubusercontent.com/106558466/201495912-1de648d6-a6e9-4645-8c67-e5732699f1b6.png)
+![image](https://user-images.githubusercontent.com/106558466/201495993-9392e95a-16ac-43e5-be24-06d2d955388a.png)
+
+
 
