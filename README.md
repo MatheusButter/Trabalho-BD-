@@ -374,6 +374,15 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201446149-1eefa9f5-aac4-4a47-ac68-c434382429d7.png)
 
 
+### 9.6 Consultas com inner join e order by
+![image](https://user-images.githubusercontent.com/106558466/201490877-93d9821b-4bd3-418c-b0a0-909f0bd043bf.png)
+![image](https://user-images.githubusercontent.com/106558466/201491469-5f0af92c-d531-4e04-9f38-4b9ca871b45c.png)
+![image](https://user-images.githubusercontent.com/106558466/201491564-7f4bd9fd-c48e-4e5d-9e9e-7bad6e213e8f.png)
+![image](https://user-images.githubusercontent.com/106558466/201491598-4f14bf4e-4433-438d-96f9-e2f93fc83ca1.png)
+![image](https://user-images.githubusercontent.com/106558466/201491637-565ef068-1135-433f-8ed0-e6de9594157c.png)
+![image](https://user-images.githubusercontent.com/106558466/201491708-7b003a5c-0392-45a1-a469-52aeabadb3c5.png)
+
+
 
 
 
