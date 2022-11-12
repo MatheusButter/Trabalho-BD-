@@ -364,6 +364,15 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201444073-3db384dc-7f93-4e18-8bfd-551eb0f62198.png)
 ![image](https://user-images.githubusercontent.com/106558466/201444437-4dea1f66-8986-4460-95d5-8212f0fdf35f.png)
 
+### 9.5 Inserções aplicando atualizaçãoe e exclusão de dados
+
+![image](https://user-images.githubusercontent.com/106558466/201445186-488315a2-8440-43f1-a68c-bb2ba2bab961.png)
+![image](https://user-images.githubusercontent.com/106558466/201445496-2c9ee3e8-5564-474c-b0f4-7173f10681c7.png)
+![image](https://user-images.githubusercontent.com/106558466/201445624-3f43cf22-69c0-48e4-815b-2be41bd110b4.png)
+![image](https://user-images.githubusercontent.com/106558466/201445847-712c85a3-8a2b-4c3e-8acf-c686ff81a232.png)
+![image](https://user-images.githubusercontent.com/106558466/201446002-67efe41d-1147-42a3-86a6-6cbdd38de4c1.png)
+![image](https://user-images.githubusercontent.com/106558466/201446149-1eefa9f5-aac4-4a47-ac68-c434382429d7.png)
+
 
 
 
