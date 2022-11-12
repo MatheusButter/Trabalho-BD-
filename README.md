@@ -381,8 +381,17 @@ values(001,007,001,'2022-10-29'),
 ![image](https://user-images.githubusercontent.com/106558466/201491598-4f14bf4e-4433-438d-96f9-e2f93fc83ca1.png)
 ![image](https://user-images.githubusercontent.com/106558466/201491637-565ef068-1135-433f-8ed0-e6de9594157c.png)
 ![image](https://user-images.githubusercontent.com/106558466/201491708-7b003a5c-0392-45a1-a469-52aeabadb3c5.png)
+ 
 
+### 9.7 Consultas com group by e funções de agrupamento
 
+![image](https://user-images.githubusercontent.com/106558466/201492111-25d73333-69bf-440a-942b-3cf31694b2e3.png)
+![image](https://user-images.githubusercontent.com/106558466/201492223-7c2900b2-3647-4113-9cfb-c230460b4277.png)
+![image](https://user-images.githubusercontent.com/106558466/201492359-081f134a-854b-4843-9e53-a12f80b7dea6.png)
+![image](https://user-images.githubusercontent.com/106558466/201492420-a175929b-ab95-4fe9-b943-d5d56a2fd309.png)
+![image](https://user-images.githubusercontent.com/106558466/201492464-0fe14749-233a-4742-8f22-b76be286a6b2.png)
+![image](https://user-images.githubusercontent.com/106558466/201492490-6d79dad1-d1b6-47ef-9764-f207e8d17a74.png)
+![image](https://user-images.githubusercontent.com/106558466/201492510-9c6d3a6f-8818-48d6-8211-6e970e310204.png)
 
 
 
