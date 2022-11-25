@@ -417,4 +417,7 @@ Em anexo o SQL equivalente ao itens 9.2 a .910 c=juntamente com uma explicação
 ![image](https://user-images.githubusercontent.com/106558466/201495993-9392e95a-16ac-43e5-be24-06d2d955388a.png)
 
 
-
+##10 Relatórios e graficos
+### 10. 1 análises e resultados provenientes do banco de dados desenvolvido
+### 10. 2 link com exemplo de relatórios
+https://colab.research.google.com/drive/1ooxBh4KWtdrcMvqGUiXuT0Zgmpk4wVpQ?usp=sharing
